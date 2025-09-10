@@ -31,7 +31,7 @@ const Sidebar = ({ onSectionChange, isOpen, toggleSidebar }) => {
         } sm:translate-x-0 sm:relative`}
       >
         <div className="flex gap-2 items-center justify-center">
-        <img src="/src/assets/logo.png" alt="logo" className="h-12 w-12 mb-4"/>
+        <img src="/logo.png" alt="logo" className="h-12 w-12 mb-4"/>
         <h1 className="text-2xl font-semibold text-center mb-2">SWADESH</h1>
         </div>
         <div className="sidebar-content mt-10 flex-grow">
